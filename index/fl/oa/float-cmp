@@ -1,0 +1,1 @@
+{"name":"float-cmp","vers":"0.5.3","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":true,"default_features":false,"target":null,"kind":null,"package":null}],"cksum":"75224bec9bfe1a65e2d34132933f2de7fe79900c96a0174307554244ece8150e","features":{"default":["num-traits"]},"yanked":false}

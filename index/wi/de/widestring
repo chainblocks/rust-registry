@@ -1,0 +1,1 @@
+{"name":"widestring","vers":"0.4.3","deps":[{"name":"winapi","req":"^0.3","features":["winbase"],"optional":false,"default_features":true,"target":null,"kind":"dev","package":null}],"cksum":"c168940144dd21fd8046987c16a46a33d5fc84eec29ef9dcddc2ac9e31526b7c","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"pico-args","vers":"0.4.1","deps":[],"cksum":"7d7afeb98c5a10e0bffcc7fc16e105b04d06729fac5fd6384aebf7ff5cb5a67d","features":{"combined-flags":[],"default":["eq-separator"],"eq-separator":[],"short-space-opt":[]},"yanked":false}

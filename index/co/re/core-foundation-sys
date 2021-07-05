@@ -1,0 +1,1 @@
+{"name":"core-foundation-sys","vers":"0.8.2","deps":[],"cksum":"ea221b5284a47e40033bf9b66f35f984ec0ea2931eb03505246cd27a963f981b","features":{"mac_os_10_7_support":[],"mac_os_10_8_features":[]},"yanked":false}

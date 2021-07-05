@@ -1,0 +1,1 @@
+{"name":"futures-core","vers":"0.3.14","deps":[],"cksum":"098cd1c6dda6ca01650f1a37a794245eb73181d0d4d4e955e2f3c37db7af1815","features":{"alloc":[],"cfg-target-has-atomic":[],"default":["std"],"std":["alloc"],"unstable":[]},"yanked":false}

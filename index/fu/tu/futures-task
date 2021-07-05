@@ -1,0 +1,1 @@
+{"name":"futures-task","vers":"0.3.14","deps":[],"cksum":"ba7aa51095076f3ba6d9a1f702f74bd05ec65f555d70d2033d55ba8d69f581bc","features":{"alloc":[],"cfg-target-has-atomic":[],"default":["std"],"std":["alloc"],"unstable":[]},"yanked":false}
